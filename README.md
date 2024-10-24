@@ -198,7 +198,7 @@ feature flag requries Rust 1.60+.
 [`thingbuf::mpsc`]: https://docs.rs/thingbuf/0.1/thingbuf/mpsc/index.html
 [`thingbuf::mpsc::blocking`]: https://docs.rs/thingbuf/0.1/thingbuf/mpsc/blocking/index.html
 [static-queue]: https://docs.rs/thingbuf/0.1/thingbuf/struct.StaticThingBuf.html
-[static-mpsc]: https://docs.rs/thingbuf/0.1./thingbuf/mpsc/struct.StaticChannel.html
+[static-mpsc]: https://docs.rs/thingbuf/0.1/thingbuf/mpsc/struct.StaticChannel.html
 [`futures::channel::mpsc`]: https://docs.rs/futures/latest/futures/channel/mpsc/index.html
 [`std::sync::mpsc::sync_channel`]: https://doc.rust-lang.org/stable/std/sync/mpsc/fn.sync_channel.html
 [`tokio::sync::mpsc`]: https://docs.rs/tokio/latest/tokio/sync/mpsc/index.html
